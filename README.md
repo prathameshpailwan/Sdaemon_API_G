@@ -6,7 +6,7 @@ This is a simple RESTful Web API built with ASP.NET Core for managing tasks. It 
 
 ##  Prerequisites
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - (Optional) Angular client or any frontend to consume the API (CORS enabled for `http://localhost:4200`)
 
 ---
