@@ -1,4 +1,4 @@
-#  Task Management API - ASP.NET Core (.NET 6)
+#  Task Management API - ASP.NET Core (.NET 8)
 
 This is a simple RESTful Web API built with ASP.NET Core for managing tasks. It supports all CRUD operations (Create, Read, Update, Delete) and uses an **in-memory database** for demonstration purposes.
 
